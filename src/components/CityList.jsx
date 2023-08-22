@@ -1,9 +1,13 @@
+import { useCities } from '../context/CitiesContext';
 import CityItem from './CityItem';
 import styles from './CityList.module.css';
 import Message from './Message';
 import Spinner from './Spinner';
 
-const CityList = ({ cities, isLoading }) => {
+const CityList = () => {
+  // Consume the values from CONTEXT
+  const { cities, isLoading } = useCities();
+
   if (isLoading) {
     return <Spinner />;
   }

@@ -1,40 +1,28 @@
 {
   "cities": [
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
-      "cityName": "Velikiy Ustyug",
-      "country": "Russian Federation (the)",
-      "emoji": "🇷🇺",
-      "date": "2023-08-23T19:56:26.766Z",
-      "notes": "it was awful tbh",
-      "position": {
-        "lat": "60.57909465188725",
-        "lng": "45.17976669043116"
-      },
-      "id": 98443208
-    },
-    {
-      "cityName": "Bazillac",
+      "cityName": "Saint-Aout",
       "country": "France",
       "emoji": "🇫🇷",
-      "date": "2023-08-23T20:11:03.887Z",
-      "notes": "hello etsting",
+      "date": "2023-08-23T21:39:56.703Z",
+      "notes": "The trip was great !!!",
       "position": {
-        "lat": "43.34923268210473",
-        "lng": "0.10105877224297458"
+        "lat": "46.76260559594138",
+        "lng": "1.9893441020892635"
       },
-      "id": 98443209
+      "id": 17806752
+    },
+    {
+      "cityName": "Acered",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-23T21:42:41.107Z",
+      "notes": "das",
+      "position": {
+        "lat": "41.15388963792657",
+        "lng": "-1.6116140242414747"
+      },
+      "id": 17806754
     }
   ]
 }

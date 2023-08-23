@@ -35,6 +35,126 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Dullingham",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-08-23T19:39:14.314Z",
+      "notes": "",
+      "position": {
+        "lat": "52.180741089611764",
+        "lng": "0.4318986797404501"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Villanueva de Alcoron",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-23T19:41:30.474Z",
+      "notes": "",
+      "position": {
+        "lat": "40.63899374000119",
+        "lng": "-2.248716836594582"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Casas de Ves",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-23T19:44:03.795Z",
+      "notes": "",
+      "position": {
+        "lat": "39.15558771280158",
+        "lng": "-1.28245396940905"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Casas de Ves",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-23T19:44:03.795Z",
+      "notes": "dasdfqe",
+      "position": {
+        "lat": "39.15558771280158",
+        "lng": "-1.28245396940905"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Jekabpils",
+      "country": "Latvia",
+      "emoji": "🇱🇻",
+      "date": "2023-08-23T19:45:28.509Z",
+      "notes": "awesome",
+      "position": {
+        "lat": "56.523628472708324",
+        "lng": "26.028708191454292"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Vidzy",
+      "country": "Belarus",
+      "emoji": "🇧🇾",
+      "date": "2023-08-23T19:47:39.751Z",
+      "notes": "",
+      "position": {
+        "lat": "55.34784000127746",
+        "lng": "26.49002474383319"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Subotniki",
+      "country": "Belarus",
+      "emoji": "🇧🇾",
+      "date": "2023-08-23T19:48:08.509Z",
+      "notes": "dsa",
+      "position": {
+        "lat": "54.06578248302726",
+        "lng": "25.765570324268783"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Nerpio",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-23T19:48:41.917Z",
+      "notes": "",
+      "position": {
+        "lat": "38.21221386812157",
+        "lng": "-2.2267563168858344"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Cardena",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-23T19:50:53.433Z",
+      "notes": "",
+      "position": {
+        "lat": "38.36750888374462",
+        "lng": "-4.358152519300783"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Ainsa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-23T19:52:00.595Z",
+      "notes": "hello testing",
+      "position": {
+        "lat": "42.26927142446508",
+        "lng": "0.12301929195172258"
+      },
+      "id": 98443207
     }
   ]
 }

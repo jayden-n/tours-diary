@@ -24,6 +24,7 @@ const CountryList = () => {
       return array;
     }
   }, []);
+
   return (
     <ul className={styles.countryList}>
       {countries.map((country) => (

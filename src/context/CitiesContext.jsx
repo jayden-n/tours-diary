@@ -1,6 +1,7 @@
 import { createContext, useContext, useEffect, useReducer } from 'react';
 
 const BASE_URL = 'http://localhost:8000';
+
 const CitiesContext = createContext();
 
 const initialState = {
@@ -9,6 +10,7 @@ const initialState = {
   currentCity: {},
   error: '',
 };
+
 const reducer = (state, action) => {
   switch (action.type) {
     case 'loading':
